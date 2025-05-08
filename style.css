@@ -68,7 +68,6 @@ nav ul {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-    color: aqua;
 }
 
 .secao4 {
@@ -113,10 +112,4 @@ a{
     text-decoration: none;
 }
 
-/* button{
-    visibility: hidden;
-}
 
-.secao4-div-card:hover button{
-    visibility: visible;
-} */
